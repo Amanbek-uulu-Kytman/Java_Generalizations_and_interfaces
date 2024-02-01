@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="377a5416-9e17-4e02-96cb-936dbe26429f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First_Interface/EnglishPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First_Interface/FrenchPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First_Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First_Interface/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/My_Third_interfase/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="377a5416-9e17-4e02-96cb-936dbe26429f" name="Changes" comment="My_First_Commit_Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,24 +20,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2birejsL4UIE1i6Em2xUVaM0jSn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.First_Interface.Main">
     <configuration name="First_Interface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First_Interface.Main" />
@@ -93,11 +85,30 @@
       <option name="presentableId" value="Default" />
       <updated>1706708843058</updated>
       <workItem from="1706708844332" duration="898000" />
-      <workItem from="1706752822254" duration="694000" />
+      <workItem from="1706752822254" duration="1140000" />
     </task>
+    <task id="LOCAL-00001" summary="My_First_Commit_Java">
+      <created>1706753844426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706753844426</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My_First_Commit_Java">
+      <created>1706753950841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706753950841</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My_First_Commit_Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="My_First_Commit_Java" />
   </component>
 </project>
